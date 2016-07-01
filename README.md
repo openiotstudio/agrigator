@@ -11,3 +11,5 @@ The site is based on Emonpi, the rpi version of the UK-based EmonCMS project. Di
 The Dashboard of the platform should offer a visualization of the progress from industrial to organic agriculture and a possible social-shareable data for the farm to better storytell their efforts.
 
 See also: [https://github.com/OfficineArduinoTorino/RuralHack](https://github.com/OfficineArduinoTorino/RuralHack)
+
+<img src="img/agrigator_sketch.jpg">
