@@ -2,7 +2,7 @@
 
 ### Agrigator is trying to combine in a self-hosted way different feeds from IOT connected machines and radio communication throughout a huge farm space. Low power/old technologies are juxtaposed with new ones in the aim to put the farmer in the middle of the conversation.
 
-*By Davide and Harm*
+*By Davide Gomba and Harm van Beek at the Mozilla Open IoT Design Sprint in Anstruther, June 2016*
 
 Agrigator project is answering a well-known, common question: why all these different devices are offfering their very own UI/app/site/feed to send (and monitor) their Data? During the research process we were able to interact with an evolved, mature, tech-savvy approach to agriculture that favors direct interaction throught Data (i.e. grain dryier machine to humidity, bio-masses machine to wheather forecast, surveillance CCTV cameras to SMS and storing, etc) rather than a passive, layered visualisation on it on different platforms. 
 
